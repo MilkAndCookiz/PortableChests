@@ -1,0 +1,13 @@
+# PortableChests Configuration
+
+# Messages
+messages:
+  chest_made_portable: "&aChest has been made portable!"
+  chest_placed: "&aPortable chest has been placed!"
+  not_authorized_pickup: "&cYou are not authorized to make portable chests in this area!"
+  not_authorized_place: "&cYou are not authorized to place portable chests in this area!"
+  inventory_full: "&cYour inventory is full! You cannot create a portable chest."
+
+# Chest Name Settings
+chest-name-color: "&6" # Color code for the chest name (e.g., &6 for gold)
+chest-name: "Portable Chest" # Name of the portable chest
