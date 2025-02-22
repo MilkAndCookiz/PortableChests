@@ -1,7 +1,7 @@
 name: PortableChests
 main: PortableChests\Main
 version: 1.0.0
-api: [5.25.0]
+api: [5.0.0]
 author: MilkAndCookiz
 description: A plugin that allows players to create and use portable chests.
 permissions:
